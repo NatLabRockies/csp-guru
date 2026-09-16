@@ -13,8 +13,5 @@ The license of this data allows to share and adapt this data if you give appropr
 ## Changes in this version of CSP.guru
 This version of CSP.guru has been compiled by Richard Thonig and Alina Gilmanova in collaboration with the SolarPACES secretariat and reflects the CSP market in the middle of 2023. The Chinese market continues to develops favorably with many new projects tendering. The Chinese pipeline now has 1GW under construction in 10 projects expected to be completed from 2024 and 2025. Else, we included some small stations in Italy and the two G3P3 demonstration plants in the US and Saudi Arabia. Finally, several new rows were included in the dataset to account for the economics of PV-Wind-CSP hybrid projects in China.
 
-## Contact
-For questions or issues get in touch with [Richard Thonig](mailto:richard.thonig@rifs-potsdam.de) or [Johan Lilliestam](mailto:johan.lilliestam@rifs-potsdam.de).
-
 ## Acknowledgements
 Funding for this version [2023-07-01] came from SolarPACES.
